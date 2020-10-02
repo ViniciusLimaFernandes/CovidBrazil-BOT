@@ -4,20 +4,20 @@
 
 A bot to post on twitter the actual stats and news about the Covid-19.
 
-### Twitter profile
+#### Twitter profile
+
 The data is available at: https://twitter.com/CovidBrazil
 
-### Screenshots
+#### Screenshots
+
 <img src="https://github.com/viniciuslimafernandes/covid-19-bot/blob/master/screenshots/Profile.png">
 <img src="https://github.com/viniciuslimafernandes/covid-19-bot/blob/master/screenshots/Timeline1.png">
 <img src="https://github.com/viniciuslimafernandes/covid-19-bot/blob/master/screenshots/Timeline2.png">
 
-
-### Datasource
+#### Datasource
 
 - [CSSEGISandData](https://github.com/CSSEGISandData/COVID-19)
 - [Ministério da Saúde](http://saude.gov.br)
 - [Coronavírus Brasil](https://covid.saude.gov.br/)
 - [Covid19-Brazil-Api](https://github.com/devarthurribeiro/covid19-brazil-api)
 - [News API](https://newsapi.org)
-
