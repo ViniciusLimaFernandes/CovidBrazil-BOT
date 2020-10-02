@@ -2,7 +2,7 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png" height=50 width=50> <img src="https://images.vexels.com/media/users/3/127222/isolated/preview/136ac7946873d47baafa6ed6474ffd2b-blue-twitter-bird-line-icon-svg-by-vexels.png" height=50 width=50>
 
-A bot to post on twitter the actual stats and news about the Covid-19.
+A bot to post on Twitter the actual stats and news about the Covid-19.
 
 #### Twitter profile
 
