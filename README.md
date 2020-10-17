@@ -4,6 +4,8 @@
 
 A bot to post on Twitter the actual stats and news about the Covid-19.
 
+This bot was developed with a single principle to help the community with news, data and graphs about the covid-19 data.
+
 #### Twitter profile
 
 The data is available at: https://twitter.com/CovidBrazil
