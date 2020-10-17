@@ -4,6 +4,7 @@ from pytz import timezone
 
 
 class AuthData:
+    #Auth the user, this init function is a constructor for this class authData
     def __init__(self, consumer_key, consumer_secret, access_token, access_token_secret, newsApi_key):
         self.consumer_key = consumer_key
         self.consumer_secret = consumer_secret
