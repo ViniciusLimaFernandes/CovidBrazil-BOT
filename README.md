@@ -8,6 +8,10 @@ A bot to post on Twitter the actual stats and news about the Covid-19.
 
 The data is available at: https://twitter.com/CovidBrazil
 
+#### How to use
+
+The credentials example is a file to you put ur twitter data, you can generate it using the twitter API!
+
 #### Screenshots
 
 <img src="https://github.com/viniciuslimafernandes/covid-19-bot/blob/master/screenshots/Profile.png">
@@ -17,7 +21,11 @@ The data is available at: https://twitter.com/CovidBrazil
 #### Datasource
 
 - [CSSEGISandData](https://github.com/CSSEGISandData/COVID-19)
+
 - [Ministério da Saúde](http://saude.gov.br)
+
 - [Coronavírus Brasil](https://covid.saude.gov.br/)
+
 - [Covid19-Brazil-Api](https://github.com/devarthurribeiro/covid19-brazil-api)
+
 - [News API](https://newsapi.org)
