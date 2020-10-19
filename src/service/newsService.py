@@ -10,7 +10,7 @@ def getLastNews():
 
         return lastNews
     except RuntimeError:
-        print('List of news is empty.')
+        print('No news')
 
 
 def getAllNews():

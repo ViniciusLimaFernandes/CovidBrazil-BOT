@@ -10,7 +10,7 @@ class TrackerService:
         self.updatedAt = updatedAt
 
     def covidData():
-        print('Parsing API data...')
+        print('Parsing API Covid data')
 
         data = getCovidData()
         dataPath = data['data']
