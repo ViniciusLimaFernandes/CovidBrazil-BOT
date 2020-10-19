@@ -10,7 +10,7 @@ def getLastNews():
 
         return lastNews
     except RuntimeError:
-        print('No news')
+        print('No news available at this time')
 
 
 def getAllNews():
